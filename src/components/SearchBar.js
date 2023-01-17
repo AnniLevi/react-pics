@@ -45,6 +45,8 @@ Handling text inputs
 3. when the 'onChange' event fires, get the value from the input (event.target.value)
 4. take that value from the input and use it to update your state
 5. pass your state to the input as the value prop
+
+Inputs managed in this style (where both the value and onChange props are provided) are called 'controlled inputs'
 */
 
 /*
