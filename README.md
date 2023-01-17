@@ -1,6 +1,8 @@
 ## React project for searching images
 
-interaction with Unsplash API
+The user can upload images to the page by keywords.
+
+Interaction with Unsplash API.
 
 ### Components
 
